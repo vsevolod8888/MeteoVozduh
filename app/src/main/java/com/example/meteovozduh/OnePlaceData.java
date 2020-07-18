@@ -16,7 +16,7 @@ public class OnePlaceData {
     @SerializedName("aqi")
     @Expose
     private String aqi;
-    @SerializedName("station")
+    @SerializedName("station") //yyy
     @Expose
     private Station station;
 
